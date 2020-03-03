@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ameerreact/static/css/main.d1b05096.chunk.css",
+    "main.js": "/ameerreact/static/js/main.df7d768d.chunk.js",
+    "main.js.map": "/ameerreact/static/js/main.df7d768d.chunk.js.map",
+    "runtime-main.js": "/ameerreact/static/js/runtime-main.2ed0ddd7.js",
+    "runtime-main.js.map": "/ameerreact/static/js/runtime-main.2ed0ddd7.js.map",
+    "static/js/2.338e66b7.chunk.js": "/ameerreact/static/js/2.338e66b7.chunk.js",
+    "static/js/2.338e66b7.chunk.js.map": "/ameerreact/static/js/2.338e66b7.chunk.js.map",
+    "index.html": "/ameerreact/index.html",
+    "precache-manifest.dc8f9cbf4f29255cd0b90e58484588d4.js": "/ameerreact/precache-manifest.dc8f9cbf4f29255cd0b90e58484588d4.js",
+    "service-worker.js": "/ameerreact/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/ameerreact/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.338e66b7.chunk.js.LICENSE.txt": "/ameerreact/static/js/2.338e66b7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ed0ddd7.js",
+    "static/js/2.338e66b7.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.df7d768d.chunk.js"
+  ]
+}
